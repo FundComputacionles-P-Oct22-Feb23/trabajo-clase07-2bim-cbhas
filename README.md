@@ -3,7 +3,7 @@
 
 ## Áreas de las Ciencias de la Computación
 
-	- Sebastián Calderón
+	- ALISrj & cbhas
 
 ### Trabajo Grupal
 
