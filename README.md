@@ -3,6 +3,8 @@
 
 ## Áreas de las Ciencias de la Computación
 
+	- Sebastián Calderón
+
 ### Trabajo Grupal
 
 1. Reunión del grupo
